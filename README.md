@@ -1,4 +1,4 @@
-# Sistema Bancário em C
+# Sistema Bancário criado em C
 
 Projeto desenvolvido no curso de Análise e Desenvolvimento de Sistemas.
 
