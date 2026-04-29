@@ -1,4 +1,4 @@
-#Sistema Bancário em C
+# Sistema Bancário em C
 
 Projeto desenvolvido no curso de Análise e Desenvolvimento de Sistemas.
 
@@ -8,14 +8,19 @@ Sistema bancário simples feito em linguagem C que utiliza 'struct' para armazen
 
 ## Funcionalidades
 
-_Criar nova conta com número e saldo inicial;
-_Realizar consultas de saldo;
-_Realizar depósito
-_Realizar saque com validação de saldo;
-_Dados salvos em arquivo binário.
+- Criar nova conta com número e saldo inicial;
+
+- Realizar consultas de saldo;
+
+- Realizar depósito;
+
+- Realizar saque com validação de saldo;
+
+- Dados salvos em arquivo binário.
 
 ## Como compilar e executar
 
-'''bash
+```bash
 gcc main.c -o banco.exe
 ./banco.exe
+```
