@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Estudos-C
 =======
 # Sistema Bancário criado em C
@@ -27,4 +27,3 @@ Sistema bancário simples feito em linguagem C que utiliza 'struct' para armazen
 gcc main.c -o banco.exe
 ./banco.exe
 ```
->>>>>>> cda3010235f6d14b54a965604cc442fe5e6b784f
